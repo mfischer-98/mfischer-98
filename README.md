@@ -10,7 +10,7 @@ I'm currently learning C and working on my first 2D game project at 42 school (s
 
   <div align="center">
   <a href="https://github.com/mfischer-98/Libft" target="_blank">
-    <img src="https://raw.githubusercontent.com/xSilverWasHere/42-project-badges/refs/heads/main/badges/libfte.png" alt="libft" />
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/libfte.png" alt="libft" />
   </a>
 </div>
 
@@ -18,17 +18,17 @@ I'm currently learning C and working on my first 2D game project at 42 school (s
 
 <div align="center">
   <a href="https://github.com/mfischer-98/Get-Next-Line" target="_blank">
-    <img src="https://raw.githubusercontent.com/xSilverWasHere/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="get_next_line" />
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/get_next_linee.png" alt="get_next_line" />
   </a>
   <a href="https://github.com/mfischer-98/ft_printf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/ft_printfe.png" alt="ft_printf" />
   </a>
  </a>
   <a href= target="_blank">
-    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="Born2BeRoot" />
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/born2berootm.png" alt="Born2BeRoot" />
   </a>
  
 </div>
 
 <h4 align="center">Milestone 2</h4>
-<h4 align="center"> ⋆⟡₊⊹LOADING⊹₊⟡⋆ </h4>
+<h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>
