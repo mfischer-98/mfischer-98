@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there ✨
 
-<!--
-**mfischer-98/mfischer-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Melissa and I am a software development student. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
 
-Here are some ideas to get you started:
+I'm currently learning C and working on my first 2D game project at 42 school (so_long).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> :file_folder: My Projects at 42 Porto :file_folder: </h3>
+<h4 align="center">Milestone 0</h4>
+
+  <div align="center">
+  <a href="https://github.com/mfischer-98/Libft" target="_blank">
+    <img src="https://raw.githubusercontent.com/xSilverWasHere/42-project-badges/refs/heads/main/badges/libfte.png" alt="libft" />
+  </a>
+</div>
+
+<h4 align="center">Milestone 1</h4>
+
+<div align="center">
+  <a href="https://github.com/mfischer-98/Get-Next-Line" target="_blank">
+    <img src="https://raw.githubusercontent.com/xSilverWasHere/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="get_next_line" />
+  </a>
+  <a href="https://github.com/mfischer-98/ft_printf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
+  </a>
+ </a>
+  <a href= target="_blank">
+    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="Born2BeRoot" />
+  </a>
+ 
+</div>
+
+<h4 align="center">Milestone 2</h4>
+<h4 align="center"> :construction: LOADING :construction: </h4>
