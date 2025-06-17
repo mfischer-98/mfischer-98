@@ -4,6 +4,7 @@ My name is Melissa and I am a software development student. I graduated in Biolo
 
 I'm currently learning C and working on my first 2D game project at 42 school (so_long).
 
+---
 
 <h3 align="center"> ⋆ ✴︎ ˚｡ ⋆ My Projects at 42 Porto ⋆ ｡˚ ✴︎ ⋆ </h3>
 <h4 align="center">Milestone 0</h4>
