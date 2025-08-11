@@ -2,7 +2,7 @@
 
 My name is Melissa and I am a software development student. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
 
-I'm currently learning C and working on my first 2D game project at 42 school (so_long).
+I'm currently learning C and working on my push_swap project (sorting algorithm).
 
 ---
 
@@ -28,8 +28,12 @@ I'm currently learning C and working on my first 2D game project at 42 school (s
   <a href= target="_blank">
     <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/born2berootm.png" alt="Born2BeRoot" />
   </a>
- 
-</div>
 
+</div>
 <h4 align="center">Milestone 2</h4>
-<h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>
+<div align="center">
+  <a href="https://github.com/mfischer-98/So_long" target="_blank">
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/so_longm.png" alt="so_long" />
+  </a>
+   
+[<h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>]: #
