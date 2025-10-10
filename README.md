@@ -35,5 +35,14 @@ I'm currently learning C and working on my push_swap project (sorting algorithm)
   <a href="https://github.com/mfischer-98/So_long" target="_blank">
     <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/so_longm.png" alt="so_long" />
   </a>
-   
-[<h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>]: #
+  <a href="https://github.com/mfischer-98/Push_swap" target="_blank">
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/push_swape.png" alt="push_swap" />
+  </a>
+    <a href="https://github.com/mfischer-98/Minitalk" target="_blank">
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/minitalke.png" alt="minitalk" />
+  </a>
+
+</div>
+<h4 align="center">Milestone 3</h4>
+<div align="center">
+<h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>
