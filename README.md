@@ -2,7 +2,7 @@
 
 My name is Melissa and I am a software development student. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
 
-I'm currently learning C and working on my push_swap project (sorting algorithm).
+I'm currently learning C and working on my Minishell project at 42Porto.
 
 ---
 
