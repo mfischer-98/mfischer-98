@@ -2,7 +2,7 @@
 
 My name is Melissa and I am a software development student. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
 
-I'm currently learning C and working on my Minishell project at 42Porto.
+I'm currently learning C and working on my Philosophers project at 42Porto.
 
 ---
 
@@ -44,5 +44,15 @@ I'm currently learning C and working on my Minishell project at 42Porto.
 
 </div>
 <h4 align="center">Milestone 3</h4>
+<div align="center">
+  <a href="https://github.com/mfischer-98/Minishell" target="_blank">
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/minishelle.png" alt="minishell" />
+  </a>
+  <a href="https://github.com/mfischer-98/Philosophers" target="_blank">
+    <img src="https://github.com/mfischer-98/42-project-badges/blob/main/badges/philosopherse.png" alt="philosophers" />
+  </a>
+
+</div>
+<h4 align="center">Milestone 4</h4>
 <div align="center">
 <h4 align="center"> ₊⟡⋆ LOADING ⋆⟡₊ </h4>
