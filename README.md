@@ -1,8 +1,8 @@
 ## Hey there ✨
 
-My name is Melissa and I am a software development student. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
+My name is Melissa and I am developing projects at 42 Porto. I graduated in Biology, worked with digital art (games, animation, patterns) and my new adventure is programming.
 
-I'm currently learning C and working on my NetPractice project at 42Porto, where I am learning the basics of networking.
+I'm currently developing in C/Linux and working on my NetPractice project at 42Porto, where I am learning the basics of networking.
 
 ---
 
