@@ -13,9 +13,6 @@ My path into tech comes from a mix of biology, science, animation, and programmi
 I am an Animation Workshop Leader at TUMO Porto and currently working on **cub3D** and **netpractice**.
 
 ## Stack
-
-### Technical
-
 <p>
   <img src="https://img.shields.io/badge/C-e9d5ff?style=for-the-badge&logo=c&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Linux-f8dda2?style=for-the-badge&logo=linux&logoColor=1e1e2e" />
@@ -53,11 +50,4 @@ I am an Animation Workshop Leader at TUMO Porto and currently working on **cub3D
 
 Feel free to reach out below! I’d love to connect and chat about projects, collaborations, and opportunities.
 
-<p>
-  <a href="mailto:melissafisc98@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=minutemailer&logoColor=ffffff" />
-  </a>
-    <a href="https://www.linkedin.com/in/-melissa-fischer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Melissa_Fischer-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" />
-  </a>
-</p>
+<p><a href="https://www.linkedin.com/in/-melissa-fischer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Melissa_Fischer-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a><a href="mailto:melissafisc98@gmail.com"><img src="https://img.shields.io/badge/EMAIL-f9c6d3?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a></p>
