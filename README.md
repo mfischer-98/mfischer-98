@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Porto%2C_Portugal-f8dda2?style=for-the-badge" />
 </p>
 
-I’m a software engineer building projects at **42 Porto** with a focus on C/Linux, graphics programming, embedded systems and game development. My path into tech comes from a mix of biology/science, animation and programming, so I like building logical systems and solving problems creatively.
+I’m a software engineer building projects at **42 Porto** with a focus on **C/Linux**, graphics programming, embedded systems and game development. My path into tech comes from a mix of biology/science, animation and programming, so I like building logical systems and solving problems creatively.
 
 I am currently working as an Animation Workshop Leader at TUMO Porto and on my **cub3D** project.
 
