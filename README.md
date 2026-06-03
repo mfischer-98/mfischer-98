@@ -25,7 +25,7 @@ I am currently working as an Animation Workshop Leader at TUMO Porto and on my *
 
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
-| cub3D | A 3D engine project focused on raycasting, rendering, and spatial logic in C. | In progress | [Repository](https://github.com/mfischer-98/cub3D) |
+| cub3D | A 3D engine project focused on raycasting, rendering and spatial logic in C. | In progress | [Repository](https://github.com/mfischer-98/cub3D) |
 | netpractice | A networking project for understanding IP addressing, routing and basic network configuration. | In progress | [Repository](https://github.com/mfischer-98/NetPractice) |
 | minishell | A shell built in C with parsing, pipes, redirections, processes and signal handling. | Completed | [Repository](https://github.com/mfischer-98/Minishell) |
 | philosophers | A concurrency project about threads, mutexes and shared concurrency programming. | Completed | [Repository](https://github.com/mfischer-98/Philosophers) |
