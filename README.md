@@ -42,7 +42,7 @@ I am currently working as an Animation Workshop Leader at TUMO Porto and on my *
 |------|-----|-------------|------|
 | Elixir of the End | GameJam | Find out what is happening in the village, gather ingredients and salve your people. | [Repository](https://github.com/DadiaZ24/Elixir-of-the-End) |
 | Final Feather | Club Project | You are a little sparrow that was summoned by a wizard, now you have to survive the attacks of his monsters. | [Repository](https://github.com/DadiaZ24/The-Final-Feather-game-) |
-| Lost in Space | GameJam | Travel in space, visit planets and choose wisely to increase your chances of surviving. | Add link |
+| Lost in Space | GameJam | Travel in space, visit planets and choose wisely to increase your chances of surviving. | Link available soon |
 
 ## Contact
 
