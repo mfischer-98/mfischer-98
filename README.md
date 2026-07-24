@@ -8,7 +8,7 @@
 
 I’m a software engineer building projects at **42 Porto** with a focus on **C/Linux**, graphics programming, embedded systems and game development. My path into tech comes from a mix of biology/science, animation and programming, so I like building logical systems and solving problems creatively.
 
-I am currently working as an Animation Workshop Leader at TUMO Porto and on my **cub3D** project.
+I am currently working as an Animation Workshop Leader at TUMO Porto and on my **C++** projects.
 
 ## Stack
 <p>
