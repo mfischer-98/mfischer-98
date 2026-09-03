@@ -49,4 +49,4 @@ I am currently working as an Animation Workshop Leader at TUMO Porto and on my *
 
 Feel free to reach out below! I’d love to connect and chat about projects, collaborations, and opportunities.
 
-<p><a href="https://www.linkedin.com/in/-melissa-fischer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Melissa_Fischer-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a><a href="mailto:melissafisc98@gmail.com"><img src="https://img.shields.io/badge/EMAIL-f9c6d3?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a></p>
+<p><a href="https://www.linkedin.com/in/-melissa-fischer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Melissa_Fischer-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a><a href="mailto:melissafischer.info@proton.me"><img src="https://img.shields.io/badge/EMAIL-f9c6d3?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a></p>
