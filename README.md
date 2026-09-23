@@ -25,6 +25,7 @@ I am currently working as an Animation Workshop Leader at TUMO Porto and on my *
 
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
+| CPP05-09 | C++ exercises to dive deeper in the language and object-oriented programming. | In progress | [Repository](https://github.com/mfischer-98/CPPs05-09) |
 | netpractice | A networking project for understanding IP addressing, routing and basic network configuration. | Completed | [Repository](https://github.com/mfischer-98/NetPractice) |
 | CPP00-04 | C++ exercises to learn the language and object-oriented programming. | Completed | [Repository](https://github.com/mfischer-98/CPPs) |
 | cub3D | A 3D engine project focused on raycasting, rendering and spatial logic in C. | Completed | [Repository](https://github.com/mfischer-98/cub3D) |
